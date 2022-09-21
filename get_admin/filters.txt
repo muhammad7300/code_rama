@@ -1,0 +1,11 @@
+admin
+owner
+dev
+never
+listen
+shill
+marketing
+promoter
+call
+token
+crypto
